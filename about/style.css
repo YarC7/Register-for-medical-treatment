@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  
+  margin: 5px;
+  padding: 10px;
+
+}
+img {
+  width: 500px;
+}
+.image {
+  flex-basis: 70%;
+  order: 2;
+  align-items:center;
+  
+}
+.text {
+  align-items:flex-start;
+  width: 500px;
+  padding-left: 20px;
+
+}
+h1{
+  background-color: antiquewhite;
+
+}
+body{
+  background-color: beige;
+
+}
